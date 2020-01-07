@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+.home-page .banner {
+  background: #b83119;
+}
+
+.navbar-brand {
+  color: #b83119!important;
+}
+footer .logo-font {
+  vertical-align: middle;
+}
+
+a {
+  color: #b83119;
+  text-decoration: none;
+}
+.nav-pills.outline-active .nav-link.active {
+  border-bottom: 2px solid #b83119!important;
+  color: #b83119!important;
+}
+
+footer .attribution {
+  color: #000000;
+}
+
+.btn-primary {
+  background-color: #b83119;
+  border-color: #b83119;
+}
